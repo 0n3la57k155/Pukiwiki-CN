@@ -1,0 +1,22 @@
+#freeze
+#norelated
+* FrontPage [#qb249ac2]
+
+此页面在没有指定页面的时候会显示出来。
+
+请大家在这个站点自由地编辑吧 :) ((为了防止垃圾邮件和简单的恶作剧，在对一个主题页面进行编辑后，一定不要忘记锁定哦。别忘了要更改密码！))
+
+
+** 练习页面 [#if72ced0]
+- [[SandBox]] -- 尝试在这里编辑一下
+- [[InterWikiSandBox]] -- 请试试[[InterWiki]]（跨维基）
+
+
+** PukiWiki 介绍 [#c2af49f4]
+
+- [[PukiWiki]] -- 在这里为您介绍 PukiWiki
+
+*** 文档 [#o366701b]
+- [[帮助>Help]] -- 怎样编辑 PukiWiki？
+- [[文本编辑方法(详细)>FormattingRules]]
+- [[插件指南>PukiWiki/1.4/Manual/Plugin]]

@@ -1,0 +1,5 @@
+#recent(20)
+
+//经常显示的菜单栏。
+//&edit(MenuBar,noicon){edit};
+//を記述しておくとMenuBarを気軽に修正できるようになって便利かも。

@@ -1,0 +1,35 @@
+#freeze
+#nofollow
+#norelated
+* PukiWiki [#v1621880]
+
+- http://pukiwiki.sourceforge.jp/
+- http://sourceforge.jp/projects/pukiwiki/
+
+PukiWiki是一个被称为 维基([[WikiWikiWeb]]) 的无论是谁都可以创建和编辑所有页面的站点。
+
+此外，编辑不需要专门的知识，只要遵循简单的规则进行格式化，你就可以生成一个 HTML 文档。
+
+- 汉字的支持很完全。中文的页面名称完全可以！
+- 所有的数据文件都由最原始的文本文档来保存
+- 具有定期的备份功能，还原也很简单
+- 可以单独锁定一个页面
+- 短网址就像[[InterWiki]]也被支持
+- 使用[[PHP]]编写
+- 授权协议为 GPL(( http://www.gnu.org/licenses/gpl.html ))。
+
+** 链接 [#nf50e667]
+
+- [[PukiWiki-official:http://sourceforge.jp/projects/pukiwiki/]] 前往 PukiWiki 官方网站（日语）
+-- 如果有意见和建议，请到这里来提出。 :)
+
+- Pukiwiki-dev - http://pukiwiki.sourceforge.jp/dev/
+-- 这里是 PukiWiki 开发站点。PukiWiki开发站点不只在创建下一个版本，也是在对现行版本（1.4、1.3系列）的修正、发布安全补丁。在[[pukiwiki.dev:開発日記]]你会看到每天作者在上面的工作内容，PukiWiki的开发者感谢您到那访问。
+
+- http://sourceforge.jp/projects/pukiwiki/
+-- Sourceforge 上的项目介绍。PukiWiki 可以在这里下载。
+
+** 相关页面 [#zf685513]
+
+#ls2
+- [[InterWikiName]] -- [[InterWiki]]（跨维基）的服务列表

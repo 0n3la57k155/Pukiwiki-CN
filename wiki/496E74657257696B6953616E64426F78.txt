@@ -1,0 +1,20 @@
+''这是使用跨维基的练习页面。''
+**跳转到其他维基站点。 [#t20eea48]
+-[[WikiWikiWeb:FrontPage]]
+-[[Tiki:WelcomeVisitors]] 
+-[[YukiWiki:FrontPage]] 
+-[[RWiki:top]] 
+-[[PukiWiki:FrontPage]] 
+//-[[ウヰキエリア:FrontPage]]
+**跳转到 PukiWiki 官方站点。 [#sfce4c27]
+-[[pukiwiki:FrontPage]]
+-[[pukiwiki.dev:FrontPage]]
+**在 维基百科 上搜索 Chrome
+[[WikiPedia:Chrome]]
+**快速搜索。 [#wec8fb2d]
+:在 Google 上搜索 pukiwiki|
+[[Google:pukiwiki]]
+:在 Yahoo 上搜索 PHP|
+[[Yahoo:PHP]]
+:在 百度 上搜索 Chrome|
+[[Baidu:Chrome]]

@@ -1,0 +1,11 @@
+#freeze
+|RIGHT:      |LEFT:     |c
+|~投稿者     |[Proposer]|
+|~分类       |[Category]|
+|~优先次序   |[Severity]|
+|~状态       |[Status]  |
+|~页面名称   |[_name] &size(12){空欄のままだと自動的にページ名が振られます。};|
+|~版本       |[Version] &size(12){空白でも構いません};|
+|~简介       |[Summary] |
+|~信息       |[Messages]|
+|>|CENTER:[_submit]     |

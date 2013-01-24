@@ -1,0 +1,50 @@
+[[PukiWiki]]
+* InterWikiName [#bf2d416a]
+这是跨维基所使用的服务列表
+  [URL 服务名] 编码类型
+我们使用以上形式来表示。
+
+** 维基引擎 [#c3e04f1c]
+-[http://www.c2.com/cgi/wiki? WikiWikiWeb] raw WikiName 的各位 raw。
+-[http://www.todo.org/cgi-bin/jp/tiki.cgi?c=v&p= Tiki] euc
+-[http://www.hyuki.com/yukiwiki/wiki.cgi? YukiWiki] euc
+-[http://www.jin.gr.jp/~nahi/RWiki/?cmd=view;name= RWiki] euc
+-[http://digit.que.ne.jp/work/index.cgi? WalWiki] euc
+-[http://fswiki.poi.jp/wiki.cgi? FSWiki] euc
+-[http://www.namaraii.com/hiki/? Hiki] euc
+-[http://xiki.mitsuki.no-ip.com/? Xiki] utf8
+
+** PukiWiki [#j0d346fa]
+// PukiWiki Official Main Site
+-[http://pukiwiki.sourceforge.jp/? pukiwiki] utf8
+// PukiWiki Developer Site
+-[http://pukiwiki.sourceforge.jp/dev/? pukiwiki.dev] euc
+
+** 搜索引擎 [#jaaa4e4c]
+-[http://www.google.co.jp/search?ie=utf8&oe=utf8&q=$1&lr=lang_ja&hl=ja Google.ja] utf8 
+-[http://www.google.com.hk/search?ie=utf8&oe=utf8&q=$1&lr=lang_zh-CN&hl=zh-CN Google] utf8 
+//IE的Google工具栏的做法就是使用UTF-8。
+-[http://www.baidu.com/s?wd=$1&ie=utf-8 Baidu] utf8
+-[http://www.yahoo.cn/s?q= Yahoo] utf8
+-[http://search.yahoo.co.jp/bin/search?p= Yahoo.ja] euc
+-[http://www.bing.com/search?q=$1&mkt=zh-CN Bing] utf8
+-[http://www.youdao.com/search?q=$1&ue=utf8 Youdao] utf8
+-[http://www.soso.com/q?w=$1&ie=utf-8&oe=utf-8 Soso] utf8
+-[http://www.sogou.com/web?query= Sogou] utf8
+-[http://en.wikipedia.org/wiki/ WikiPedia.en] utf8
+-[http://ja.wikipedia.org/wiki/ WikiPedia.ja] utf8
+-[http://zh.wikipedia.org/zh-CN/ WikiPedia] utf8
+
+** 扩展 InterWikiName [#q192ea38]
+-[./?cmd=add&page= 新建]
+-[./?cmd=add&page= New]
+-[./?cmd=read&page= 阅读]
+-[./?cmd=read&page= View]
+-[./?cmd=edit&page= 编辑]
+-[./?cmd=edit&page= Edit]
+-[./?cmd=search&word=$1&type=OR 搜索]
+-[./?cmd=search&word=$1&type=OR Search]
+
+*** 其他 [#b69e2eec]
+-[http://www.gembook.jp/tsum/page.pys?wiki= ウヰキエリア] moin
+-[http://tdiary-users.sourceforge.jp/cgi-bin/wiki.cgi? tDiaryUsers] euc

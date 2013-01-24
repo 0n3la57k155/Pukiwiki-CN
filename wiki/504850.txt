@@ -1,0 +1,6 @@
+* PHP: Hypertext Preprocessor [#k50e5340]
+
+http://www.php.net/
+
+- PHPChina 开源社区门户 (China PHP User Group)
+-- http://www.phpchina.com/

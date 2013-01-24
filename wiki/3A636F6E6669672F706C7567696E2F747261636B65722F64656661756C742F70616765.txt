@@ -1,0 +1,15 @@
+#freeze
+* [Summary]
+-页面:       [_refer]
+-投稿者:     [Proposer]
+-优先顺序:   [Severity]
+-状态:       [Status]
+-分类:       [Category]
+-投稿日期:   [_date]
+-版本:       [Version]
+
+** 信息
+[Messages]
+----
+
+#comment

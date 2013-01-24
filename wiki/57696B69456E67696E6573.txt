@@ -1,0 +1,2 @@
+* WikiEngines [#w25f7760]
+WikiEngines 是实现[[WikiWikiWeb]] 的程序引擎。最开始的是 WikiWikiWeb ，现在有很多 WikiEngines 的克隆版。

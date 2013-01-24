@@ -1,0 +1,3 @@
+最初的让[[PukiWiki]]作为参考的，以 Perl 脚本书写的 WikiEngine。
+
+[[结城浩 的个人主页:http://www.hyuki.com/]]

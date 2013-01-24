@@ -1,0 +1,36 @@
+#freeze
+*mime-type
+
+此表格为 attach.inc.php 规定某扩展名所使用的 Content-type。
+
+|~Content-type|~扩展名|~描述|h
+|image/jpeg|jpeg jpg|JPEG 图像|
+|image/gif|gif|GIF 图像|
+|image/png|png|PNG 图像|
+|application/pdf|pdf|PDF 文件|
+|application/x-shockwave-flash|swf|动画文件|
+|video/mpg|mpg|mpg 视频文件|
+|application/vnd.rn-realmedia|rm|RealPlay 视频文件|
+|video/quicktime|mov|mov 视频文件|
+|video/avi|avi|avi 视频文件|
+|video/x-ms-wmv|wmv|Windows 视频文件|
+|audio/mp3|mp3|MP3 音频文件|
+|audio/wav|wav wave|wave 音频文件|
+|audio/vnd.rn-realaudio|ra ram|RealPlay 音频文件|
+|audio/midi|mid midi|midi 音频文件|
+|application/x-zip-compressed|zip|zip 压缩文件|
+|application/x-lzh-compressed|lzh|lzh 压缩文件|
+|application/x-gzip|gz|g-zip 压缩文件|
+|application/x-bz2-compressed|bz2|bz2 压缩文件|
+|application/x-compress|z tgz|compress 压缩文件|
+|application/x-cab-compressed|cab|cab 压缩文件|
+|application/x-stuffit|sit|stuff it 压缩文件|
+|application/x-tar|tar|tar 存档文件|
+|text/plain|txt text dat jis euc sjis sjs asc utf utf8 csv|文本文档|
+|text/html|html htm|html 文档|
+|image/svg-xml|svg|svg(Scalable Vector Graphics)|
+|application/ms-download|exe|Windows 可执行文件|
+|application/ms-word|doc|Microsoft Word 文档|
+|application/ms-excel|xls|Microsoft Excel 文档|
+|application/ms-access|mdb mde|Microsoft Access 数据库|
+|application/ms-powerpoint|ppt pps|Microsoft PowerPoint 演示文稿|
